@@ -22,22 +22,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    // Add your android configuration here from google-services.json
-    apiKey: 'your-api-key',
-    appId: 'your-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    storageBucket: 'your-bucket',
+    apiKey: 'YOUR-ANDROID-API-KEY',
+    appId: 'YOUR-ANDROID-APP-ID',
+    messagingSenderId: '232692830413',
+    projectId: 'bodymax-70882',
+    storageBucket: 'bodymax-70882.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    // Add your iOS configuration here from GoogleService-Info.plist
-    apiKey: 'your-api-key',
-    appId: 'your-app-id',
-    messagingSenderId: 'your-sender-id',
-    projectId: 'your-project-id',
-    storageBucket: 'your-bucket',
-    iosClientId: 'your-client-id',
-    iosBundleId: 'com.example.bodymax',
+    apiKey: 'AIzaSyDgshhZXG0WRC2JmfLE6CITD877buLEaxg',
+    appId: '1:232692830413:ios:fa510a21d2de83db811984',
+    messagingSenderId: '232692830413',
+    projectId: 'bodymax-70882',
+    storageBucket: 'bodymax-70882.firebasestorage.app',
+    iosBundleId: 'com.moundai.bodymax',
   );
 }
