@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232692830413",
+    "project_id": "bodymax-70882",
+    "storage_bucket": "bodymax-70882.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232692830413:android:f7e018d5f9e96c0e811984",
+        "android_client_info": {
+          "package_name": "com.moundai.bodymax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGHVE6DkRxdBAsJPtNhkhCPsKhmjC34b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
